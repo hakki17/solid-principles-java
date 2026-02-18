@@ -85,7 +85,16 @@ mvn test
 
 > **Limpiar y compilar**
 ```bash
+
+---
+
+
 mvn clean compile
 ```
 
 ---
+
+## Referencias
+
+> Documentación del laboratorio: https://eci-arcn.github.io/Labs/solid/
+> Repositorio: https://github.com/hakki17/solid-principles-java
