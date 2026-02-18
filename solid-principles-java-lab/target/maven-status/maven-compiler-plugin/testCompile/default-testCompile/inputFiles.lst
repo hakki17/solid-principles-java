@@ -1,1 +1,6 @@
 /workspaces/solid-principles-java/solid-principles-java-lab/src/test/java/com/example/solid/AppTest.java
+/workspaces/solid-principles-java/solid-principles-java-lab/src/test/java/com/example/solid/dip/OrderProcessorTest.java
+/workspaces/solid-principles-java/solid-principles-java-lab/src/test/java/com/example/solid/isp/WorkerTest.java
+/workspaces/solid-principles-java/solid-principles-java-lab/src/test/java/com/example/solid/lsp/CarTest.java
+/workspaces/solid-principles-java/solid-principles-java-lab/src/test/java/com/example/solid/ocp/DiscountTest.java
+/workspaces/solid-principles-java/solid-principles-java-lab/src/test/java/com/example/solid/srp/InvoiceTest.java

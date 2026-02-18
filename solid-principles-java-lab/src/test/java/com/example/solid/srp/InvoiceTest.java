@@ -8,7 +8,7 @@ public class InvoiceTest {
     @Test
     public void testInvoiceCalculator(){
         InvoiceCalculator calc = new InvoiceCalculator();
-        assertEquals(121, calc.calculate(100))
+        assertEquals(121, calc.calculate(100));
     }
 
     @Test

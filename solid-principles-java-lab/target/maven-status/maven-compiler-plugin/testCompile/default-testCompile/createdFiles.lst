@@ -1,0 +1,5 @@
+com/example/solid/isp/WorkerTest.class
+com/example/solid/srp/InvoiceTest.class
+com/example/solid/lsp/CarTest.class
+com/example/solid/ocp/DiscountTest.class
+com/example/solid/dip/OrderProcessorTest.class
